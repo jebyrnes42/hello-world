@@ -1,2 +1,4 @@
 # hello-world
-first repository
+first
+librarian and teacher
+love tacos and movies
